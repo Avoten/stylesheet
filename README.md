@@ -1,2 +1,2 @@
 # stylesheet
-Avoten Stylesheet
+Stylesheet
